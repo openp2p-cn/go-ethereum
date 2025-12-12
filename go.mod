@@ -1,5 +1,4 @@
-module github.com/ethereum/go-ethereum
-
+module github.com/openp2p-cn/go-ethereum
 go 1.24.0
 
 require (
